@@ -1,0 +1,14 @@
+*{
+    background-color :aliceblue;
+}
+
+.container{
+    color : black
+}
+
+.crimson{
+    background-color:crimson;
+    width:20px;
+    height:20px;
+    margin-bottom:5px;
+}
