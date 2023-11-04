@@ -3,7 +3,8 @@
 }
 
 .container{
-    color : black
+    color : green;
+    font-size : 20px;
 }
 
 .crimson{
@@ -11,4 +12,11 @@
     width:20px;
     height:20px;
     margin-bottom:5px;
+}
+
+.block{
+    background-color : skyblue;
+    width:160px;
+    height:30px;
+    margin-bottom:10px;
 }
